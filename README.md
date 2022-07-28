@@ -4,6 +4,16 @@ Contributors: [Ryan Aclan](https://github.com/raclan), [Megan Boyle](https://git
 
 This website hosts resources for learning R and other miscellaneous coding tips.
 
+### Getting started
+- [Download R] (https://cran.r-project.org)
+- [Download RStudio] (https://www.rstudio.com/products/rstudio/download/)
+
+- Packages 
+- Importing data 
+- Cleaning data 
+- Graphing
+- Animated graph 
+
 ### Steps to create a repository 
 
 - Visit [github](https://github.com)
